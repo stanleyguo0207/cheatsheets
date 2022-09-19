@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/stanleyguo0207/cheatsheets)
+
 速查表
 ---
 
