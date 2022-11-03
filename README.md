@@ -5,15 +5,17 @@
 
 本文意在收集开发过程中有帮助的网站。用于速查，不断更新中。
 
+## 速查表
+
+-   [Quick Reference](https://quickref.me/) 各种语言的速查网站。
+
 ## 语言
 
 ### C++
 
 -   [hacking C++](https://hackingcpp.com/index.html) C++各种库实现图解。
-
-### VIM
-
--   [Vim cheatsheet](https://quickref.me/vim) VIM快捷键。
+-   [cppreference](https://en.cppreference.com/w/) C++ api网站。
+-   [cplusplus](https://cplusplus.com/) C++ api网站。
 
 ## 算法
 
@@ -24,9 +26,6 @@
 -   [Redis Commands](https://redis.io/commands/) Redis命令。
 
 ## 工具
-
--   [Quick Reference](https://quickref.me/) 各种语言的速查网站。
--   [Rico's cheatsheets](https://devhints.io/) 各种语言的速查网站
 
 ### Git
 
